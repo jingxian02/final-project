@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(191, 224, 253);
+    color: rgb(240, 163, 201);
+}
+
+p{
+    color: rgb(179, 151, 117);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+tr{
+    color: rgb(164, 146, 207);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+ul{
+    color: rgb(211, 160, 197);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+ol{
+    color: rgb(193, 199, 144);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+a{
+    color: rgb(204, 120, 127);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+img{
+    height: 250px; 
+    padding: 5px;
+}
+
+.aobing{
+    color: rgb(65, 63, 63);
+    background-color: rgb(224, 218, 179);
+    margin: 80px;
+    
+}
+
+h1:hover{
+    color: rgb(197, 248, 248);
+}
